@@ -1,0 +1,68 @@
+{
+    "life_insurance_companies": [
+      {
+        "name": "Life Insurance Corporation of India",
+        "abbreviation": "LIC",
+        "website": "https://www.licindia.in",
+        "headquarters": "Mumbai, Maharashtra",
+        "established": 1956
+      },
+      {
+        "name": "HDFC Life Insurance Company Limited",
+        "website": "https://www.hdfclife.com",
+        "headquarters": "Mumbai, Maharashtra",
+        "established": 2000
+      },
+      {
+        "name": "Max Life Insurance Company Limited",
+        "website": "https://www.maxlifeinsurance.com",
+        "headquarters": "Gurugram, Haryana",
+        "established": 2000
+      },
+      {
+        "name": "ICICI Prudential Life Insurance Company Limited",
+        "website": "https://www.iciciprulife.com",
+        "headquarters": "Mumbai, Maharashtra",
+        "established": 2000
+      },
+      {
+        "name": "Kotak Mahindra Life Insurance Company Limited",
+        "website": "https://www.insurance.kotak.com",
+        "headquarters": "Mumbai, Maharashtra",
+        "established": 2001
+      }
+    ],
+    "non_life_insurance_companies": [
+      {
+        "name": "Agriculture Insurance Company of India Limited",
+        "website": "https://www.aicofindia.com",
+        "headquarters": "New Delhi",
+        "established": 2002
+      },
+      {
+        "name": "Bajaj Allianz General Insurance Company Limited",
+        "website": "https://www.bajajallianz.com",
+        "headquarters": "Pune, Maharashtra",
+        "established": 2001
+      },
+      {
+        "name": "Cholamandalam MS General Insurance Company Limited",
+        "website": "https://www.cholainsurance.com",
+        "headquarters": "Chennai, Tamil Nadu",
+        "established": 2001
+      },
+      {
+        "name": "Future Generali India Insurance Company Limited",
+        "website": "https://www.futuregenerali.in",
+        "headquarters": "Mumbai, Maharashtra",
+        "established": 2007
+      },
+      {
+        "name": "Reliance General Insurance Company Limited",
+        "website": "https://www.reliancegeneral.co.in",
+        "headquarters": "Mumbai, Maharashtra",
+        "established": 2000
+      }
+    ]
+  }
+  

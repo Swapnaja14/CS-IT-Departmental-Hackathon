@@ -1,0 +1,72 @@
+[
+    {
+        "plan": "Aditya Birla Active Assure Diamond Plan",
+        "insurer": "Aditya Birla Health",
+        "monthly_premium_inr": 390,
+        "sum_insured_range": "\u20b92 lakh \u2013 \u20b92 crore",
+        "benefits": "Full coverage, wellness benefits, no room rent limit"
+    },
+    {
+        "plan": "Bajaj Allianz Health Guard Plan",
+        "insurer": "Bajaj Allianz",
+        "monthly_premium_inr": 500,
+        "sum_insured_range": "\u20b91.5 lakh \u2013 \u20b91 crore",
+        "benefits": "Pre and post-hospitalization coverage, cashless treatment"
+    },
+    {
+        "plan": "Digit Health Insurance Plan",
+        "insurer": "Digit Insurance",
+        "monthly_premium_inr": 350,
+        "sum_insured_range": "\u20b92 lakh \u2013 \u20b925 lakh",
+        "benefits": "Immediate policy issuance, cashless hospitalization, no room rent sub-limits"
+    },
+    {
+        "plan": "ManipalCigna ProHealth Plan",
+        "insurer": "ManipalCigna",
+        "monthly_premium_inr": 450,
+        "sum_insured_range": "\u20b92.5 lakh \u2013 \u20b91 crore",
+        "benefits": "Mental health coverage, wellness benefits, cashless hospitalization"
+    },
+    {
+        "plan": "Niva Bupa Companion Individual Health Plan",
+        "insurer": "Niva Bupa",
+        "monthly_premium_inr": 500,
+        "sum_insured_range": "\u20b93 lakh \u2013 \u20b91 crore",
+        "benefits": "Full coverage, wellness benefits, cashless hospitalization"
+    },
+    {
+        "plan": "Star Health Comprehensive Health Insurance",
+        "insurer": "Star Health",
+        "monthly_premium_inr": 550,
+        "sum_insured_range": "Up to \u20b92 crore",
+        "benefits": "Accident coverage from day 1, includes ambulance expenses"
+    },
+    {
+        "plan": "HDFC ERGO Optima Restore Plan",
+        "insurer": "HDFC ERGO",
+        "monthly_premium_inr": 738,
+        "sum_insured_range": "\u20b95 lakh",
+        "benefits": "No room rent limit, 50% no-claim bonus, 100% restoration benefits"
+    },
+    {
+        "plan": "Care Supreme Plan",
+        "insurer": "Care Health Insurance",
+        "monthly_premium_inr": 739,
+        "sum_insured_range": "\u20b910 lakh",
+        "benefits": "No room rent limit, unlimited restoration benefits"
+    },
+    {
+        "plan": "Religare Care Health Plan",
+        "insurer": "Care Health Insurance",
+        "monthly_premium_inr": 550,
+        "sum_insured_range": "\u20b94 lakh \u2013 \u20b96 crore",
+        "benefits": "Full coverage, no room rent limits, cashless hospitalization"
+    },
+    {
+        "plan": "Tata AIG MediCare Health Insurance",
+        "insurer": "Tata AIG",
+        "monthly_premium_inr": 600,
+        "sum_insured_range": "\u20b93 lakh \u2013 \u20b91 crore",
+        "benefits": "Full coverage, cashless treatment, tax benefits under Section 80D"
+    }
+]
